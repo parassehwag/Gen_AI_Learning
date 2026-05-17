@@ -1,0 +1,39 @@
+# --- Required Right Now (Basics & API Access) ---
+# Core LLM SDKs
+google-genai
+openai
+
+# Orchestration Frameworks
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-openai
+
+# Environment & Utilities (For running experiments)
+python-dotenv
+jupyter
+notebook
+
+# --- Required Later (RAG, Agents, UI, Open Source) ---
+# Vector Databases (for Retrieval-Augmented Generation / RAG)
+chromadb
+faiss-cpu
+
+# Embeddings & Document Processing
+sentence-transformers
+pypdf
+beautifulsoup4
+tiktoken
+
+# Agentic Frameworks
+langgraph
+
+# Web UI for Prototypes
+streamlit
+gradio
+
+# Open Source / Local Models
+huggingface_hub
+transformers
+torch
